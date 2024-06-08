@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "19c7",
+      "username": "Rajalakshmi",
+      "email": "rajalakshmi245806@gmail.com",
+      "password": "245806",
+      "confirmPassword": "245806"
+    },
+    {
+      "id": "a151",
+      "username": "RajalakshmiR",
+      "email": "rajalakshmi1430@gmail.com",
+      "password": "245806",
+      "confirmPassword": "245806"
+    },
+    {
+      "id": "7f4a",
+      "username": "Priya",
+      "email": "priya@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "c13b",
+      "username": "raji",
+      "email": "raji123@gmail.com",
+      "password": "Ramya@245806",
+      "confirmPassword": "Ramya@245806"
+    }
+  ]
+}
